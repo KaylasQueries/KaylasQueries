@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+I’m currently working on building a portfolio of my work and progress. 
+I’m currently attending WGU and working on my BS in Data Analytics.
+I've completed the Google Data Analytics Professional Certificate. 
 <!--
 **KaylasQueries/KaylasQueries** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
